@@ -57,6 +57,43 @@ TBA
 
 ## Deployment
 
+### User Stories
+```
+  As a User
+  So I can buy a product
+  I can put money in the till
+
+  As a User
+  So I can buy a product with the right amount
+  I can get loose change
+
+  As a vendor
+  So I know the machine is ready for use
+  I can load the machine with products
+
+  As a vendor
+  So I know the machine is ready for use
+  I can load the machine-till with coins
+
+  As a vendor
+  So I know the machine needs refilling
+  Machine keeps track of products
+
+  As a vendor
+  So I know the machine-till needs refilling
+  Machine-till keeps track of coins used
+
+  As a vendor
+  So I can replenish the machine
+  I can reload products
+
+  As a vendor
+  So I can replenish the machine-till
+  I can reload coins
+
+```
+
+
 
 Things you may want to cover:
 
